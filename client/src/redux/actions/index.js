@@ -9,7 +9,7 @@ import {
   TOGGLE_TAB,
 } from "./type";
 
-const API_URL = "https://activity-tracker-sourix.onrender.com/";
+const API_URL = "https://activity-tracker-sourix.onrender.com";
 
 export const addNewTodo = (data) => async (dispatch) => {
   try {
