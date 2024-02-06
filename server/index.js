@@ -9,7 +9,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "https://sourix-activity-tracker.onrender.com",
+    origin: "*",
   })
 );
 
