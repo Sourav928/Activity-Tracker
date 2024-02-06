@@ -9,19 +9,23 @@
 
 </div>
 
-![activityTracker](https://github.com/Sourav928/MyQuotes/assets/76393038/ceb5983f-5a8a-495c-9293-e7a935badff5)
+![image](https://github.com/Sourav928/Activity-Tracker/assets/76393038/73cbd48d-99e4-4ca8-b3d5-80fdc085139c)
 
- <h3>Description</h3>
+ ## 📝Description
  This is the repository for Activiy-Tracker app built using the powerful MERN (MongoDB, Express.js, React, Node.js) stack along with Redux, provides you with a seamless and efficient way to manage your tasks. .Easily keep track of your everyday activities with a customizable task management system, real-time updates, and an intuitive interface. Set priorities, keep things in order, and increase output with ease.
 
- <h3>Features</h3>
+
+ ##  🔗Link
+This is project Live! You can check it out [Activity-Tracker](https://sourix-activity-tracker.onrender.com/).
+
+ ## 🎇Features
  <ul>
    <li>Userfriendly interface</li>
    <li>Realtime updates.</li>
    <li>Data Security</li>
  </ul>
 
- <h3>Libraries / Dependencies</h3>
+ ## ⚙️Libraries / Dependencies
  <ul>
     <li>react: A JavaScript library for building user interfaces.</li>
     <li>mongoose: An ODM (Object Data Modeling) library for MongoDB and Node.js. It simplifies interactions with MongoDB databases.</li>
@@ -33,7 +37,7 @@
     <li>dotenv: A zero-dependency module that loads environment variables from a .env file into process.env.</li>
  </ul>
 
- <h3>Getting Started </h3>
+ ## 🚀Getting Started 
 
 Clone the repository:
 
@@ -48,7 +52,7 @@ npm install dependencies
 npm start
 ```
 
-## Build With
+## 🛠️Build With
 
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Express-%23000000?style=plastic&logo=express&labelColor=black)
