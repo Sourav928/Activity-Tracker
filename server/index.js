@@ -7,10 +7,11 @@ import Routes from "./routes/route.js";
 
 const app = express();
 
-const corsOptions = {
-  origin: "https://sourix-activity-tracker.onrender.com",
-};
-app.use(cors(corsOptions));
+app.use(
+  cors({
+    origin: "https://sourix-activity-tracker.onrender.com",
+  })
+);
 
 app.use(bodyParser.json({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
