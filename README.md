@@ -39,7 +39,7 @@ Clone the repository:
 
 ```bash
 # Get the latest snapshot
-git clone https://github.com/Sourav928/gmailautoreplybot-using-Nodejs.git
+git clone https://github.com/Sourav928/Activity-Tracker
 
 # Install NPM dependencies
 npm install dependencies
