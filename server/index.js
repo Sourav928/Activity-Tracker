@@ -7,7 +7,10 @@ import Routes from "./routes/route.js";
 
 const app = express();
 
-app.use(cors());
+const corsOptions = {
+  origin: "https://activity-tracker-55nw.onrender.com/",
+};
+app.use(cors(corsOptions));
 
 app.use(bodyParser.json({ extended: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
