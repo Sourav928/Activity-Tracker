@@ -59,4 +59,4 @@ npm start
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=plastic&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Nodejs-%23339933?style=plastic&logo=nodedotjs&labelColor=black)
 
-<p align="center"> Made with ❤ by <a href="https://github.com/Prakhar2100">Sourav Khandekar</a></p>
+<p align="center"> Made with ❤ by <a href="https://github.com/Sourav928">Sourav Khandekar</a></p>
